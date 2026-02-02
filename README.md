@@ -62,3 +62,9 @@ docker-compose up -d
 ```
 
 ## Скриншоты работы
+<img width="579" height="502" alt="image" src="https://github.com/user-attachments/assets/b8b7159b-b314-441c-82c1-c5392ef73137" />
+<img width="516" height="188" alt="image" src="https://github.com/user-attachments/assets/101561d7-4e20-4e62-bce1-0584f5f3919e" />
+<img width="518" height="560" alt="image" src="https://github.com/user-attachments/assets/bb9cf7aa-5741-4b99-a045-2c5fde2cce45" />
+<img width="702" height="266" alt="image" src="https://github.com/user-attachments/assets/fed0c34b-dd04-477b-86f8-14b950242e28" />
+
+
